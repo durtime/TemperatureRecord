@@ -7,3 +7,6 @@ show you recent temperature charts and can export you temperature in an excel.
 🔯 使用截图cap-picture下
 
 使用时需要手动在设置中赋予权限。
+
+下载位置在TemperatureRecord/bin目录下的Temperature.apk。
+代码有些混乱不足，初学android仅供参考
